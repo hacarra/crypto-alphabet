@@ -1,8 +1,8 @@
 # crypto-alphabet
 
-Jupyter script para pronosticar el precio de cierre de Bitcoin y Ethereum usando Alphabet de Facebook.
+Jupyter script para pronosticar el precio de cierre de Bitcoin y Ethereum usando [Prophet](https://facebook.github.io/prophet/) de Facebook.
 
-Basado en el trabajo de Jacob Bennett (https://go.jake404.com)  https://medium.com/jake404/predict-the-price-of-btc-using-facebook-prophet-8b5e22f669aa
+Basado en el [trabajo de](https://medium.com/jake404/predict-the-price-of-btc-using-facebook-prophet-8b5e22f669aa) [Jacob Bennett](https://go.jake404.com)  
 
 Los datos se obtienen desde la API de http://poloniex.com
 
