@@ -11,3 +11,10 @@ https://poloniex.com/public?command=returnChartData&currencyPair=USDT_BTC&start=
 
 
 Después de descargar el dataset, se debe transformar el timestamp a fecha. Yo usé excel con esta fórmula en PowerQuery ==> Table.AddColumn(#"Expanded Column1", "DateTime", each #datetime(1970,1,1,0,0,0) + #duration(0,0,0,[Column1.date]))
+
+## Ethereum
+
+![image](https://user-images.githubusercontent.com/47190969/129432368-ab3762e7-0bda-4802-8ea2-0e57ce326776.png)
+
+## BitCoin
+
