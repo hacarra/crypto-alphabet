@@ -18,3 +18,4 @@ Después de descargar el dataset, se debe transformar el timestamp a fecha. Yo u
 
 ## BitCoin
 
+![image](https://user-images.githubusercontent.com/47190969/129432404-142badb1-c6fa-4f56-a1f7-eee4501d4c8f.png)
