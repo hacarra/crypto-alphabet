@@ -22,6 +22,7 @@ Después de descargar el dataset, se debe transformar el timestamp a fecha. Yo u
 
 ## BitCoin
 ### Forecast
+![image](https://user-images.githubusercontent.com/47190969/129432436-a63c9887-7ccf-4f0f-849b-2beb1234c872.png)
 
 
 ### Componentes
