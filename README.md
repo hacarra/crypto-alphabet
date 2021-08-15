@@ -15,15 +15,15 @@ Después de descargar el dataset, se debe transformar el timestamp a fecha. Yo u
 ## Ethereum
 
 ### Forecast
-![image](https://user-images.githubusercontent.com/47190969/129432422-07f4ffaa-666b-43a8-a29b-1c42be2bf948.png)
+![image](https://user-images.githubusercontent.com/47190969/129463291-cfd51899-8466-4624-97d2-072fe7cc5f40.png)
 
 ### Componentes
-![image](https://user-images.githubusercontent.com/47190969/129432368-ab3762e7-0bda-4802-8ea2-0e57ce326776.png)
+![image](https://user-images.githubusercontent.com/47190969/129463293-46ed90d5-7349-487f-824b-0483f01a8c82.png)
 
 ## BitCoin
 ### Forecast
-![image](https://user-images.githubusercontent.com/47190969/129432436-a63c9887-7ccf-4f0f-849b-2beb1234c872.png)
-
+![image](https://user-images.githubusercontent.com/47190969/129463296-14188ba0-1ea9-45d6-8ff6-27c5e3a4b0eb.png)
 
 ### Componentes
-![image](https://user-images.githubusercontent.com/47190969/129432404-142badb1-c6fa-4f56-a1f7-eee4501d4c8f.png)
+![image](https://user-images.githubusercontent.com/47190969/129463301-7c467877-131e-45a0-b5c0-036482464ee2.png)
+
